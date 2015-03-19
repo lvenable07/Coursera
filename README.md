@@ -1,4 +1,4 @@
 # Coursera
-John's Hopkins Course
+John Hopkins Course
 
 I love :coffee:, :cake:, :golf:.
